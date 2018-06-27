@@ -4,7 +4,7 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [Link to App](#Link)
+* [Link to App](#link)
 
 
 ## Instructions
