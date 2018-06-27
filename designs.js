@@ -1,5 +1,5 @@
 
-function makeGrid() {
+
 
 // Your code goes here!
 $('#sizePicker').submit(function(event){
@@ -39,4 +39,3 @@ $('td').click(function addColor(){
 })
 }
 
-}
